@@ -30,4 +30,4 @@ Contributions are welcome! Please feel free to submit a pull request.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
-For questions or feedback, please reach out to the repository owner.
+For questions or feedback, please reach out to me on my email: kyeremanteng51@gmail.com.
