@@ -3,10 +3,10 @@
 Welcome to the Ayifa project!
 
 ## Description
-Ayifa is a project repository. Add your project description here.
+This project contains a series of small projects I'll be working on as a computer science student 
 
 ## Getting Started
-
+ I'll be learning all the popular programming languages and I'll make mini projects.
 ### Prerequisites
 - List any prerequisites here
 
